@@ -1,0 +1,29 @@
+Sequence        		tRNA 	Bounds	tRNA	Anti	Intron Bounds	Inf	      
+Name            	tRNA #	Begin	End  	Type	Codon	Begin	End	Score	Note
+--------        	------	-----	------	----	-----	-----	----	------	------
+T203_mitogenome 	1	42   	125  	Tyr	GTA	0	0	41.9	
+T203_mitogenome 	2	263  	336  	Asp	GTC	0	0	51.7	
+T203_mitogenome 	3	342  	425  	Ser	GCT	0	0	38.3	
+T203_mitogenome 	4	430  	501  	Asn	GTT	0	0	61.8	
+T203_mitogenome 	5	1411 	1481 	Gly	TCC	0	0	48.4	
+T203_mitogenome 	6	2273 	2344 	Val	TAC	0	0	64.1	
+T203_mitogenome 	7	2676 	2747 	Ile	GAT	0	0	46.8	
+T203_mitogenome 	8	3004 	3090 	Ser	TGA	0	0	50.7	
+T203_mitogenome 	9	3099 	3170 	Trp	TCA	0	0	50.1	
+T203_mitogenome 	10	3224 	3295 	Pro	TGG	0	0	29.6	
+T203_mitogenome 	11	8267 	8337 	Thr	TGT	0	0	43.6	
+T203_mitogenome 	12	8343 	8415 	Glu	TTC	0	0	56.3	
+T203_mitogenome 	13	8416 	8486 	Met	CAT	0	0	40.8	
+T203_mitogenome 	14	8628 	8700 	Met	CAT	0	0	58.5	
+T203_mitogenome 	15	8705 	8787 	Leu	TAA	0	0	48.0	
+T203_mitogenome 	16	8871 	8942 	Ala	TGC	0	0	57.7	
+T203_mitogenome 	17	8948 	9020 	Phe	GAA	0	0	52.9	
+T203_mitogenome 	18	9021 	9093 	Lys	TTT	0	0	60.7	
+T203_mitogenome 	19	9492 	9574 	Leu	TAG	0	0	44.5	
+T203_mitogenome 	20	9875 	9947 	Gln	TTG	0	0	48.2	
+T203_mitogenome 	21	10137	10209	His	GTG	0	0	41.9	
+T203_mitogenome 	22	10373	10444	Met	CAT	0	0	58.4	
+T203_mitogenome 	23	15388	15458	Arg	ACG	0	0	46.7	
+T203_mitogenome 	24	20017	20090	Cys	GCA	0	0	34.2	
+T203_mitogenome 	25	22693	22763	Arg	TCT	0	0	52.2	
+T203_mitogenome 	26	26264	26332	Phe	AAA	0	0	33.1	
