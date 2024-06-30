@@ -1,0 +1,76 @@
+<?xml  version="1.0"  standalone="no"  ?>
+<!DOCTYPE  svg  PUBLIC  "-//W3C//DTD  SVG  1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg  width="655"  height="378"  xmlns="http://www.w3.org/2000/svg">
+<text  x="260"  y="20"  font-family="Arial" font-size="8.75">BLAST alignment of orf115 against other genes</text>
+<line x1="450" y1="30" x2="550" y2="30" stroke="red"  stroke-width="1" />
+<text  x="550"  y="30"  font-family="Arial" font-size="8.75">matched regions</text>
+<rect x="10"  y="50"  width="250"  height="10"  fill="blue" stroke="none"/>
+<text  x="100"  y="45"  font-family="Arial" font-size="8.75">orf115</text>
+<text  x="10"  y="50"  font-family="Arial" font-size="8.75">1</text>
+<text  x="260"  y="50"  font-family="Arial" font-size="8.75">116</text>
+<text  x="400"  y="45"  font-family="Arial" font-size="8.75">Subject</text>
+<rect x="300"  y="50"  width="250"  height="10"  fill="blue" stroke="none"/>
+<line x1="10" y1="75" x2="260" y2="75" stroke="blue"  stroke-width="1" />
+<line x1="10" y1="78" x2="255.689655172414" y2="78" stroke="red"  stroke-width="1" />
+<line x1="300" y1="75" x2="550" y2="75" stroke="blue"  stroke-width="1" />
+<text  x="300"  y="75"  font-family="Arial" font-size="8.75">1</text>
+<text  x="550"  y="75"  font-family="Arial" font-size="8.75">115</text>
+<text  x="580"  y="75"  font-family="Arial" font-size="8.75">YP_009440493.1</text>
+<line x1="300" y1="78" x2="547.826086956522" y2="78" stroke="red"  stroke-width="1" />
+<line x1="10" y1="90" x2="260" y2="90" stroke="blue"  stroke-width="1" />
+<line x1="10" y1="93" x2="255.689655172414" y2="93" stroke="red"  stroke-width="1" />
+<line x1="300" y1="90" x2="550" y2="90" stroke="blue"  stroke-width="1" />
+<text  x="300"  y="90"  font-family="Arial" font-size="8.75">1</text>
+<text  x="550"  y="90"  font-family="Arial" font-size="8.75">115</text>
+<text  x="580"  y="90"  font-family="Arial" font-size="8.75">YP_009826341.1</text>
+<line x1="300" y1="93" x2="547.826086956522" y2="93" stroke="red"  stroke-width="1" />
+<line x1="10" y1="105" x2="260" y2="105" stroke="blue"  stroke-width="1" />
+<line x1="10" y1="108" x2="255.689655172414" y2="108" stroke="red"  stroke-width="1" />
+<line x1="300" y1="105" x2="550" y2="105" stroke="blue"  stroke-width="1" />
+<text  x="300"  y="105"  font-family="Arial" font-size="8.75">1</text>
+<text  x="550"  y="105"  font-family="Arial" font-size="8.75">212</text>
+<text  x="580"  y="105"  font-family="Arial" font-size="8.75">YP_009466111.1</text>
+<line x1="414.38679245283" y1="108" x2="548.820754716981" y2="108" stroke="red"  stroke-width="1" />
+<line x1="10" y1="120" x2="260" y2="120" stroke="blue"  stroke-width="1" />
+<line x1="10" y1="123" x2="255.689655172414" y2="123" stroke="red"  stroke-width="1" />
+<line x1="300" y1="120" x2="550" y2="120" stroke="blue"  stroke-width="1" />
+<text  x="300"  y="120"  font-family="Arial" font-size="8.75">1</text>
+<text  x="550"  y="120"  font-family="Arial" font-size="8.75">115</text>
+<text  x="580"  y="120"  font-family="Arial" font-size="8.75">YP_009254360.1</text>
+<line x1="300" y1="123" x2="547.826086956522" y2="123" stroke="red"  stroke-width="1" />
+<line x1="10" y1="135" x2="260" y2="135" stroke="blue"  stroke-width="1" />
+<line x1="10" y1="138" x2="255.689655172414" y2="138" stroke="red"  stroke-width="1" />
+<line x1="300" y1="135" x2="550" y2="135" stroke="blue"  stroke-width="1" />
+<text  x="300"  y="135"  font-family="Arial" font-size="8.75">1</text>
+<text  x="550"  y="135"  font-family="Arial" font-size="8.75">922</text>
+<text  x="580"  y="135"  font-family="Arial" font-size="8.75">YP_010043421.1</text>
+<line x1="515.29284164859" y1="138" x2="549.457700650759" y2="138" stroke="red"  stroke-width="1" />
+<line x1="10" y1="150" x2="260" y2="150" stroke="blue"  stroke-width="1" />
+<line x1="10" y1="153" x2="255.689655172414" y2="153" stroke="red"  stroke-width="1" />
+<line x1="300" y1="150" x2="550" y2="150" stroke="blue"  stroke-width="1" />
+<text  x="300"  y="150"  font-family="Arial" font-size="8.75">1</text>
+<text  x="550"  y="150"  font-family="Arial" font-size="8.75">919</text>
+<text  x="580"  y="150"  font-family="Arial" font-size="8.75">YP_009254037.1</text>
+<line x1="519.532100108814" y1="153" x2="549.455930359086" y2="153" stroke="red"  stroke-width="1" />
+<line x1="10" y1="165" x2="260" y2="165" stroke="blue"  stroke-width="1" />
+<line x1="18.6206896551724" y1="168" x2="171.637931034483" y2="168" stroke="red"  stroke-width="1" />
+<line x1="300" y1="165" x2="550" y2="165" stroke="blue"  stroke-width="1" />
+<text  x="300"  y="165"  font-family="Arial" font-size="8.75">1</text>
+<text  x="550"  y="165"  font-family="Arial" font-size="8.75">1068</text>
+<text  x="580"  y="165"  font-family="Arial" font-size="8.75">YP_009672800.1</text>
+<line x1="518.867041198502" y1="168" x2="535.486891385768" y2="168" stroke="red"  stroke-width="1" />
+<line x1="10" y1="180" x2="260" y2="180" stroke="blue"  stroke-width="1" />
+<line x1="16.4655172413793" y1="183" x2="167.327586206897" y2="183" stroke="red"  stroke-width="1" />
+<line x1="300" y1="180" x2="550" y2="180" stroke="blue"  stroke-width="1" />
+<text  x="300"  y="180"  font-family="Arial" font-size="8.75">1</text>
+<text  x="550"  y="180"  font-family="Arial" font-size="8.75">99</text>
+<text  x="580"  y="180"  font-family="Arial" font-size="8.75">YP_010718668.1</text>
+<line x1="330.30303030303" y1="183" x2="507.070707070707" y2="183" stroke="red"  stroke-width="1" />
+<line x1="10" y1="195" x2="260" y2="195" stroke="blue"  stroke-width="1" />
+<line x1="16.4655172413793" y1="198" x2="206.120689655172" y2="198" stroke="red"  stroke-width="1" />
+<line x1="300" y1="195" x2="550" y2="195" stroke="blue"  stroke-width="1" />
+<text  x="300"  y="195"  font-family="Arial" font-size="8.75">1</text>
+<text  x="550"  y="195"  font-family="Arial" font-size="8.75">162</text>
+<text  x="580"  y="195"  font-family="Arial" font-size="8.75">YP_008994725.1</text>
+<line x1="354.012345679012" y1="198" x2="491.358024691358" y2="198" stroke="red"  stroke-width="1" />
+</svg>
