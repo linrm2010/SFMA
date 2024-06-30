@@ -1,0 +1,11 @@
+T203_mitogenome	mitos	origin_of_replication	3452	9165	.	+	.	ID=gene_OH_4;gene_id=OH_4
+T203_mitogenome	mitos	origin_of_replication	7996	8263	.	+	.	ID=gene_OH_2;gene_id=OH_2
+T203_mitogenome	mitos	origin_of_replication	8497	26250	.	+	.	ID=gene_OH_3;gene_id=OH_3
+T203_mitogenome	mitos	origin_of_replication	7203	20276	.	+	.	ID=gene_OH_1;gene_id=OH_1
+T203_mitogenome	mitos	origin_of_replication	10875	10914	.	+	.	ID=gene_OH_10;gene_id=OH_10
+T203_mitogenome	mitos	origin_of_replication	18740	18803	.	+	.	ID=gene_OH_5;gene_id=OH_5
+T203_mitogenome	mitos	origin_of_replication	20107	20191	.	+	.	ID=gene_OH_9;gene_id=OH_9
+T203_mitogenome	mitos	origin_of_replication	4594	20680	.	+	.	ID=gene_OH_0;gene_id=OH_0
+T203_mitogenome	mitos	origin_of_replication	26737	26779	.	+	.	ID=gene_OH_8;gene_id=OH_8
+T203_mitogenome	mitos	origin_of_replication	27876	27921	.	+	.	ID=gene_OH_7;gene_id=OH_7
+T203_mitogenome	mitos	origin_of_replication	29573	41	.	+	.	ID=gene_OH_6;gene_id=OH_6
