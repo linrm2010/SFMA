@@ -1,0 +1,38 @@
+
+Tandem Repeats Finder Program written by:
+
+Gary Benson
+Program in Bioinformatics
+Boston University
+Version 4.09
+
+Please cite:
+G. Benson,
+"Tandem repeats finder: a program to analyze DNA sequences"
+Nucleic Acid Research(1999)
+Vol. 27, No. 2, pp. 573-580.
+
+Sequence: T203_mitogenome 
+Parameters: 2 7 7 80 10 50 500
+Length:  29583
+
+Tables:   1   
+
+This is table  1  of  1  ( 8 repeats found )
+
+Click on indices to view alignment
+
+Table Explanation
+
+Indices	Period Size	Copy Number	Consensus Size	Percent Matches	Percent Indels	Score	A	C	G	T	Entropy (0-2)
+2009--2086	30	2.8	28	79	13	72	52	6	6	3	1.53
+4439--4592	77	2.0	77	100	0	308	36	9	19	35	1.84
+6594--6633	14	2.9	14	88	0	53	67	2	5	25	1.23
+7241--7282	15	3.0	15	80	13	54	52	0	2	45	1.13
+8496--8530	13	2.6	14	86	9	54	54	0	0	45	0.99
+15667--15705	21	1.9	20	85	15	53	38	10	7	43	1.67
+26435--26460	11	2.4	11	100	0	52	19	34	26	19	1.95
+27876--27908	13	2.4	14	90	10	50	66	0	6	27	1.15
+Tables:   1   
+
+The End! 

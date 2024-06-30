@@ -1,0 +1,337 @@
+Tandem Repeats Finder Program written by:
+
+                 Gary Benson
+      Program in Bioinformatics
+          Boston University
+
+Version 4.09
+
+Sequence: T203_mitogenome 
+
+Parameters: 2 7 7 80 10 50 500
+
+Pmatch=0.80,Pindel=0.10
+tuple sizes 0,4,5,7
+tuple distances 0, 29, 159, 500
+
+Length: 29583
+ACGTcount: A:0.35, C:0.12, G:0.15, T:0.35
+
+Warning! 500 characters in sequence are not A, C, G, or T
+
+
+Found at i:2073 original size:30 final size:28
+
+Alignment explanation
+
+
+    Indices: 2009--2086  Score: 72
+    Period size: 30  Copynumber: 2.8  Consensus size: 28
+
+       1999 AATAATAAAT
+
+                                 *       
+       2009 TAAGT-AATATAAT-ATATTATTTACCAA
+          1 TAAGTAAATATAATGATA-TAATTACCAA
+
+            *                             
+       2036 CAAGTAAATATAATGATATAATTACTCATA
+          1 TAAGTAAATATAATGATATAATTAC-CA-A
+
+                    *             
+       2066 TAAGTAAAAAT-ATAGATATAA
+          1 TAAGTAAATATAAT-GATATAA
+
+       2087 ATACAGCTAA
+
+
+Statistics
+Matches: 42,  Mismatches: 4, Indels: 7
+        0.79            0.08        0.13
+
+Matches are distributed among these distances:
+  27    4  0.10
+  28   14  0.33
+  29    7  0.17
+  30   17  0.40
+
+ACGTcount: A:0.53, C:0.06, G:0.06, T:0.35
+
+
+Consensus pattern (28 bp):   
+TAAGTAAATATAATGATATAATTACCAA
+
+Found at i:4566 original size:77 final size:77
+
+Alignment explanation
+
+
+    Indices: 4439--4592  Score: 308
+    Period size: 77  Copynumber: 2.0  Consensus size: 77
+
+       4429 TATACCGAAA
+
+                                                                             
+       4439 CCTTGTCCATAATATATTATAATAAATATGTTTATTGTAATTAAATGGGGTAGCAGAACGTTGAG
+          1 CCTTGTCCATAATATATTATAATAAATATGTTTATTGTAATTAAATGGGGTAGCAGAACGTTGAG
+
+                        
+       4504 CTAAAGTATGAG
+         66 CTAAAGTATGAG
+
+                                                                             
+       4516 CCTTGTCCATAATATATTATAATAAATATGTTTATTGTAATTAAATGGGGTAGCAGAACGTTGAG
+          1 CCTTGTCCATAATATATTATAATAAATATGTTTATTGTAATTAAATGGGGTAGCAGAACGTTGAG
+
+                        
+       4581 CTAAAGTATGAG
+         66 CTAAAGTATGAG
+
+       4593 TTTTATTTTT
+
+
+Statistics
+Matches: 77,  Mismatches: 0, Indels: 0
+        1.00            0.00        0.00
+
+Matches are distributed among these distances:
+  77   77  1.00
+
+ACGTcount: A:0.36, C:0.09, G:0.19, T:0.35
+
+
+Consensus pattern (77 bp):   
+CCTTGTCCATAATATATTATAATAAATATGTTTATTGTAATTAAATGGGGTAGCAGAACGTTGAG
+CTAAAGTATGAG
+
+Found at i:6611 original size:14 final size:14
+
+Alignment explanation
+
+
+    Indices: 6594--6633  Score: 53
+    Period size: 14  Copynumber: 2.9  Consensus size: 14
+
+       6584 AGTAAATAGA
+
+                  *    *  
+       6594 GAAAAAAAAATCTT
+          1 GAAAAATAAATATT
+
+                          
+       6608 GAAAAATAAATATT
+          1 GAAAAATAAATATT
+
+            *           
+       6622 TAAAAATAAATA
+          1 GAAAAATAAATA
+
+       6634 AAAAAATAAG
+
+
+Statistics
+Matches: 23,  Mismatches: 3, Indels: 0
+        0.88            0.12        0.00
+
+Matches are distributed among these distances:
+  14   23  1.00
+
+ACGTcount: A:0.68, C:0.03, G:0.05, T:0.25
+
+
+Consensus pattern (14 bp):   
+GAAAAATAAATATT
+
+Found at i:7261 original size:15 final size:15
+
+Alignment explanation
+
+
+    Indices: 7241--7282  Score: 54
+    Period size: 15  Copynumber: 3.0  Consensus size: 15
+
+       7231 ATATAATTTC
+
+                           
+       7241 TAATTTAAATAATAT
+          1 TAATTTAAATAATAT
+
+                   *       
+       7256 TAATTTAGATAA-AT
+          1 TAATTTAAATAATAT
+
+                           
+       7270 T-A-TTAAATAATAT
+          1 TAATTTAAATAATAT
+
+       7283 AAATAATACA
+
+
+Statistics
+Matches: 24,  Mismatches: 2, Indels: 4
+        0.80            0.07        0.13
+
+Matches are distributed among these distances:
+  12    7  0.29
+  13    3  0.12
+  14    3  0.12
+  15   11  0.46
+
+ACGTcount: A:0.52, C:0.00, G:0.02, T:0.45
+
+
+Consensus pattern (15 bp):   
+TAATTTAAATAATAT
+
+Found at i:8519 original size:13 final size:14
+
+Alignment explanation
+
+
+    Indices: 8496--8530  Score: 54
+    Period size: 13  Copynumber: 2.6  Consensus size: 14
+
+       8486 TTTTTTTAGT
+
+                          
+       8496 TTAATATAAATATA
+          1 TTAATATAAATATA
+
+                          
+       8510 TTAA-ATAAATATA
+          1 TTAATATAAATATA
+
+               *    
+       8523 TTATTATA
+          1 TTAATATA
+
+       8531 TGATGTATTA
+
+
+Statistics
+Matches: 19,  Mismatches: 1, Indels: 2
+        0.86            0.05        0.09
+
+Matches are distributed among these distances:
+  13   12  0.63
+  14    7  0.37
+
+ACGTcount: A:0.54, C:0.00, G:0.00, T:0.46
+
+
+Consensus pattern (14 bp):   
+TTAATATAAATATA
+
+Found at i:15683 original size:21 final size:20
+
+Alignment explanation
+
+
+    Indices: 15667--15705  Score: 53
+    Period size: 21  Copynumber: 1.9  Consensus size: 20
+
+      15657 AATATAATAT
+
+                                  
+      15667 TAATGCTTATT-TCTATAGAAA
+          1 TAATGC-TATTATCTATA-AAA
+
+                              
+      15688 TAATGCTATTATCTATAA
+          1 TAATGCTATTATCTATAA
+
+      15706 CATTCTTAAT
+
+
+Statistics
+Matches: 17,  Mismatches: 0, Indels: 3
+        0.85            0.00        0.15
+
+Matches are distributed among these distances:
+  20    5  0.29
+  21   12  0.71
+
+ACGTcount: A:0.38, C:0.10, G:0.08, T:0.44
+
+
+Consensus pattern (20 bp):   
+TAATGCTATTATCTATAAAA
+
+Found at i:26451 original size:11 final size:11
+
+Alignment explanation
+
+
+    Indices: 26435--26460  Score: 52
+    Period size: 11  Copynumber: 2.4  Consensus size: 11
+
+      26425 AATTTTTGTG
+
+                       
+      26435 TAGCCTACGGC
+          1 TAGCCTACGGC
+
+                       
+      26446 TAGCCTACGGC
+          1 TAGCCTACGGC
+
+                
+      26457 TAGC
+          1 TAGC
+
+      26461 AAGCTATCCA
+
+
+Statistics
+Matches: 15,  Mismatches: 0, Indels: 0
+        1.00            0.00        0.00
+
+Matches are distributed among these distances:
+  11   15  1.00
+
+ACGTcount: A:0.19, C:0.35, G:0.27, T:0.19
+
+
+Consensus pattern (11 bp):   
+TAGCCTACGGC
+
+Found at i:27908 original size:14 final size:14
+
+Alignment explanation
+
+
+    Indices: 27876--27908  Score: 50
+    Period size: 13  Copynumber: 2.4  Consensus size: 14
+
+      27866 TATCGATGGA
+
+                          
+      27876 AAAATGAAAATTAT
+          1 AAAATGAAAATTAT
+
+                          
+      27890 AAAAT-AAAATTAT
+          1 AAAATGAAAATTAT
+
+                  
+      27903 AGAAAT
+          1 A-AAAT
+
+      27909 TAAAGAAAAA
+
+
+Statistics
+Matches: 18,  Mismatches: 0, Indels: 2
+        0.90            0.00        0.10
+
+Matches are distributed among these distances:
+  13    9  0.50
+  14    9  0.50
+
+ACGTcount: A:0.67, C:0.00, G:0.06, T:0.27
+
+
+Consensus pattern (14 bp):   
+AAAATGAAAATTAT
+Done.
+
