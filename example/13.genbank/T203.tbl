@@ -1,0 +1,286 @@
+>Features T203_mitogenome
+42	125	gene		
+			locus_tag	Tyr(GTA)_1
+42	125	tRNA		
+			product	Tyr(GTA)_1
+263	336	gene		
+			locus_tag	Asp(GTC)_1
+263	336	tRNA		
+			product	Asp(GTC)_1
+342	425	gene		
+			locus_tag	Ser(GCT)_1
+342	425	tRNA		
+			product	Ser(GCT)_1
+430	501	gene		
+			locus_tag	Asn(GTT)_1
+430	501	tRNA		
+			product	Asn(GTT)_1
+<546	>1355	gene		
+			locus_tag	cox3
+<546	>1355	mRNA		
+			product	cytochrome c oxidase subunit 3
+			protein_id	gnl|HNU|cox3
+			transcript_id	gnl|HNU|mrna.cox3
+546	1355	CDS		
+			product	cytochrome c oxidase subunit 3
+			protein_id	gnl|HNU|cox3
+			transcript_id	gnl|HNU|mrna.cox3
+1411	1481	gene		
+			locus_tag	Gly(TCC)_1
+1411	1481	tRNA		
+			product	Gly(TCC)_1
+<1603	>2355	gene		
+			locus_tag	nad6
+<1603	>2355	mRNA		
+			product	NADH dehydrogenase subunit 6
+			protein_id	gnl|HNU|nad6
+			transcript_id	gnl|HNU|mrna.nad6
+1603	2355	CDS		
+			product	NADH dehydrogenase subunit 6
+			protein_id	gnl|HNU|nad6
+			transcript_id	gnl|HNU|mrna.nad6
+2273	2344	gene		
+			locus_tag	Val(TAC)_1
+2273	2344	tRNA		
+			product	Val(TAC)_1
+2676	2747	gene		
+			locus_tag	Ile(GAT)_1
+2676	2747	tRNA		
+			product	Ile(GAT)_1
+3004	3090	gene		
+			locus_tag	Ser(TGA)_1
+3004	3090	tRNA		
+			product	Ser(TGA)_1
+3099	3170	gene		
+			locus_tag	Trp(TCA)_1
+3099	3170	tRNA		
+			product	Trp(TCA)_1
+3224	3295	gene		
+			locus_tag	Pro(TGG)_1
+3224	3295	tRNA		
+			product	Pro(TGG)_1
+3726	7859	gene		
+			locus_tag	rnl
+3726	5240	rRNA		
+7701	7859			
+			product	rnl
+<6222	>7601	gene		
+			locus_tag	rps3
+<6222	>7601	mRNA		
+			product	ribosomal protein S3
+			protein_id	gnl|HNU|rps3
+			transcript_id	gnl|HNU|mrna.rps3
+6222	7601	CDS		
+			product	ribosomal protein S3
+			protein_id	gnl|HNU|rps3
+			transcript_id	gnl|HNU|mrna.rps3
+8267	8337	gene		
+			locus_tag	Thr(TGT)_1
+8267	8337	tRNA		
+			product	Thr(TGT)_1
+8343	8415	gene		
+			locus_tag	Glu(TTC)_1
+8343	8415	tRNA		
+			product	Glu(TTC)_1
+8416	8486	gene		
+			locus_tag	Met(CAT)_1
+8416	8486	tRNA		
+			product	Met(CAT)_1
+8628	8700	gene		
+			locus_tag	Met(CAT)_2
+8628	8700	tRNA		
+			product	Met(CAT)_2
+8705	8787	gene		
+			locus_tag	Leu(TAA)_1
+8705	8787	tRNA		
+			product	Leu(TAA)_1
+8871	8942	gene		
+			locus_tag	Ala(TGC)_1
+8871	8942	tRNA		
+			product	Ala(TGC)_1
+8948	9020	gene		
+			locus_tag	Phe(GAA)_1
+8948	9020	tRNA		
+			product	Phe(GAA)_1
+9021	9093	gene		
+			locus_tag	Lys(TTT)_1
+9021	9093	tRNA		
+			product	Lys(TTT)_1
+9492	9574	gene		
+			locus_tag	Leu(TAG)_1
+9492	9574	tRNA		
+			product	Leu(TAG)_1
+9875	9947	gene		
+			locus_tag	Gln(TTG)_1
+9875	9947	tRNA		
+			product	Gln(TTG)_1
+10137	10209	gene		
+			locus_tag	His(GTG)_1
+10137	10209	tRNA		
+			product	His(GTG)_1
+10373	10444	gene		
+			locus_tag	Met(CAT)_3
+10373	10444	tRNA		
+			product	Met(CAT)_3
+<10568	>12235	gene		
+			locus_tag	nad2
+<10568	>12235	mRNA		
+			product	NADH dehydrogenase subunit 2
+			protein_id	gnl|HNU|nad2
+			transcript_id	gnl|HNU|mrna.nad2
+10568	12235	CDS		
+			product	NADH dehydrogenase subunit 2
+			protein_id	gnl|HNU|nad2
+			transcript_id	gnl|HNU|mrna.nad2
+<12236	>12649	gene		
+			locus_tag	nad3
+<12236	>12649	mRNA		
+			product	NADH dehydrogenase subunit 3
+			protein_id	gnl|HNU|nad3
+			transcript_id	gnl|HNU|mrna.nad3
+12236	12649	CDS		
+			product	NADH dehydrogenase subunit 3
+			protein_id	gnl|HNU|nad3
+			transcript_id	gnl|HNU|mrna.nad3
+<12845	>13069	gene		
+			locus_tag	atp9
+<12845	>13069	mRNA		
+			product	ATP synthase F0 subunit 9
+			protein_id	gnl|HNU|atp9
+			transcript_id	gnl|HNU|mrna.atp9
+12845	13069	CDS		
+			product	ATP synthase F0 subunit 9
+			protein_id	gnl|HNU|atp9
+			transcript_id	gnl|HNU|mrna.atp9
+<13241	>15286	gene		
+			locus_tag	cox2
+<13241	13468	mRNA		
+14765	>15286			
+			product	cytochrome c oxidase subunit 2
+			protein_id	gnl|HNU|cox2
+			transcript_id	gnl|HNU|mrna.cox2
+13241	13468	CDS		
+14765	15286			
+			product	cytochrome c oxidase subunit 2
+			protein_id	gnl|HNU|cox2
+			transcript_id	gnl|HNU|mrna.cox2
+<13469	>14353	gene		
+			locus_tag	T203_orf294
+<13469	>14353	mRNA		
+			product	GIY-YIG endonuclease
+			protein_id	gnl|HNU|T203_orf294
+			transcript_id	gnl|HNU|mrna.T203_orf294
+13469	14353	CDS		
+			product	GIY-YIG endonuclease
+			protein_id	gnl|HNU|T203_orf294
+			transcript_id	gnl|HNU|mrna.T203_orf294
+15388	15458	gene		
+			locus_tag	Arg(ACG)_1
+15388	15458	tRNA		
+			product	Arg(ACG)_1
+<15597	>15866	gene		
+			locus_tag	nad4L
+<15597	>15866	mRNA		
+			product	NADH dehydrogenase subunit 4L
+			protein_id	gnl|HNU|nad4L
+			transcript_id	gnl|HNU|mrna.nad4L
+15597	15866	CDS		
+			product	NADH dehydrogenase subunit 4L
+			protein_id	gnl|HNU|nad4L
+			transcript_id	gnl|HNU|mrna.nad4L
+<15866	>17932	gene		
+			locus_tag	nad5
+<15866	>17932	mRNA		
+			product	NADH dehydrogenase subunit 5
+			protein_id	gnl|HNU|nad5
+			transcript_id	gnl|HNU|mrna.nad5
+15866	17932	CDS		
+			product	NADH dehydrogenase subunit 5
+			protein_id	gnl|HNU|nad5
+			transcript_id	gnl|HNU|mrna.nad5
+<18195	>18542	gene		
+			locus_tag	T203_orf115
+<18195	>18542	mRNA		
+			product	hypothetical protein
+			protein_id	gnl|HNU|T203_orf115
+			transcript_id	gnl|HNU|mrna.T203_orf115
+18195	18542	CDS		
+			product	hypothetical protein
+			protein_id	gnl|HNU|T203_orf115
+			transcript_id	gnl|HNU|mrna.T203_orf115
+<18795	>19964	gene		
+			locus_tag	cob
+<18795	>19964	mRNA		
+			product	apocytochrome b
+			protein_id	gnl|HNU|cob
+			transcript_id	gnl|HNU|mrna.cob
+18795	19964	CDS		
+			product	apocytochrome b
+			protein_id	gnl|HNU|cob
+			transcript_id	gnl|HNU|mrna.cob
+20017	20090	gene		
+			locus_tag	Cys(GCA)_1
+20017	20090	tRNA		
+			product	Cys(GCA)_1
+<20562	>22382	gene		
+			locus_tag	cox1
+<20562	>22382	mRNA		
+			product	cytochrome c oxidase subunit 1
+			protein_id	gnl|HNU|cox1
+			transcript_id	gnl|HNU|mrna.cox1
+20562	22382	CDS		
+			product	cytochrome c oxidase subunit 1
+			protein_id	gnl|HNU|cox1
+			transcript_id	gnl|HNU|mrna.cox1
+22693	22763	gene		
+			locus_tag	Arg(TCT)_1
+22693	22763	tRNA		
+			product	Arg(TCT)_1
+<23248	>24534	gene		
+			locus_tag	nad1
+<23248	>24534	mRNA		
+			product	NADH dehydrogenase subunit 1
+			protein_id	gnl|HNU|nad1
+			transcript_id	gnl|HNU|mrna.nad1
+23248	24534	CDS		
+			product	NADH dehydrogenase subunit 1
+			protein_id	gnl|HNU|nad1
+			transcript_id	gnl|HNU|mrna.nad1
+<24676	>26133	gene		
+			locus_tag	nad4
+<24676	>26133	mRNA		
+			product	NADH dehydrogenase subunit 4
+			protein_id	gnl|HNU|nad4
+			transcript_id	gnl|HNU|mrna.nad4
+24676	26133	CDS		
+			product	NADH dehydrogenase subunit 4
+			protein_id	gnl|HNU|nad4
+			transcript_id	gnl|HNU|mrna.nad4
+26264	26332	gene		
+			locus_tag	Phe(AAA)_1
+26264	26332	tRNA		
+			product	Phe(AAA)_1
+<26610	>26756	gene		
+			locus_tag	atp8
+<26610	>26756	mRNA		
+			product	ATP synthase F0 subunit 8
+			protein_id	gnl|HNU|atp8
+			transcript_id	gnl|HNU|mrna.atp8
+26610	26756	CDS		
+			product	ATP synthase F0 subunit 8
+			protein_id	gnl|HNU|atp8
+			transcript_id	gnl|HNU|mrna.atp8
+<26945	>27727	gene		
+			locus_tag	atp6
+<26945	>27727	mRNA		
+			product	ATP synthase F0 subunit 6
+			protein_id	gnl|HNU|atp6
+			transcript_id	gnl|HNU|mrna.atp6
+26945	27727	CDS		
+			product	ATP synthase F0 subunit 6
+			protein_id	gnl|HNU|atp6
+			transcript_id	gnl|HNU|mrna.atp6
+28513	29574	gene		
+			locus_tag	rns
+28513	29574	rRNA		
+			product	rns
