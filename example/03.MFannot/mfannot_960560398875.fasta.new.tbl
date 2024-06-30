@@ -1,0 +1,269 @@
+>Feature T203_mitogenome Table1
+42	125	gene
+			gene	trnY(gta)
+42	125	tRNA
+			product	transfer RNA Tyrosine
+			protein_id	lcl| G-trnY
+			anticodon	(pos:77..79,aa:y)
+263	336	gene
+			gene	trnD(gtc)
+263	336	tRNA
+			product	Aspartate
+			protein_id	lcl| G-trnD
+			anticodon	(pos:297..299,aa:d)
+342	425	gene
+			gene	trnS(gct)
+342	425	tRNA
+			product	transfer RNA Serine
+			protein_id	lcl| G-trnS
+			anticodon	(pos:376..378,aa:s)
+430	501	gene
+			gene	trnN(gtt)
+430	501	tRNA
+			product	transfer RNA Asparagine
+			protein_id	lcl| G-trnN
+			anticodon	(pos:462..464,aa:n)
+546	1355	gene
+			gene	cox3
+546	1355	CDS
+			product	cytochrome c oxidase subunit 3
+			protein_id	lcl| G-cox3
+			EC_number	1.9.3.1
+1411	1481	gene
+			gene	trnG(tcc)
+1411	1481	tRNA
+			product	transfer RNA Glycine
+			protein_id	lcl| G-trnG
+			anticodon	(pos:1443..1445,aa:g)
+1603	2355	gene
+			gene	nad6
+1603	2355	CDS
+			product	NADH dehydrogenase subunit 6
+			protein_id	lcl| G-nad6
+			EC_number	1.6.5.3
+2676	2747	gene
+			gene	trnI(gat)
+2676	2747	tRNA
+			product	transfer RNA Isoleucine
+			protein_id	lcl| G-trnI
+			anticodon	(pos:2709..2711,aa:i)
+3004	3090	gene
+			gene	trnS(tga)
+3004	3090	tRNA
+			product	transfer RNA Serine
+			protein_id	lcl| G-trnS
+			anticodon	(pos:3038..3040,aa:s)
+3099	3170	gene
+			gene	trnW(tca)
+3099	3170	tRNA
+			product	transfer RNA Tryptophan
+			protein_id	lcl| G-trnW
+			anticodon	(pos:3132..3134,aa:w)
+3224	3295	gene
+			gene	trnP(tgg)
+3224	3295	tRNA
+			product	transfer RNA Proline
+			protein_id	lcl| G-trnP
+			anticodon	(pos:3256..3258,aa:p)
+6222	7601	gene
+			gene	orf459
+6222	7601	CDS
+			product	hypothetical protein
+			protein_id	lcl| G-orf459
+8267	8337	gene
+			gene	trnT(tgt)
+8267	8337	tRNA
+			product	transfer RNA Threonine
+			protein_id	lcl| G-trnT
+			anticodon	(pos:8299..8301,aa:t)
+8343	8415	gene
+			gene	trnE(ttc)
+8343	8415	tRNA
+			product	Glutamate
+			protein_id	lcl| G-trnE
+			anticodon	(pos:8376..8378,aa:e)
+8416	8486	gene
+			gene	trnM(cat)
+			note	copy 1
+8416	8486	tRNA
+			product	transfer RNA Methionine
+			protein_id	lcl| G-trnM_1
+			anticodon	(pos:8448..8450,aa:m)
+8628	8700	gene
+			gene	trnM(cat)
+			note	copy 2
+8628	8700	tRNA
+			product	transfer RNA Methionine
+			protein_id	lcl| G-trnM_2
+			anticodon	(pos:8661..8663,aa:m)
+8705	8787	gene
+			gene	trnL(taa)
+8705	8787	tRNA
+			product	transfer RNA Leucine
+			protein_id	lcl| G-trnL
+			anticodon	(pos:8739..8741,aa:l)
+8871	8942	gene
+			gene	trnA(tgc)
+8871	8942	tRNA
+			product	transfer RNA Alanine
+			protein_id	lcl| G-trnA
+			anticodon	(pos:8904..8906,aa:a)
+8948	9020	gene
+			gene	trnF(gaa)
+8948	9020	tRNA
+			product	transfer RNA Phenylalanine
+			protein_id	lcl| G-trnF
+			anticodon	(pos:8981..8983,aa:f)
+9021	9093	gene
+			gene	trnK(ttt)
+9021	9093	tRNA
+			product	transfer RNA Lysine
+			protein_id	lcl| G-trnK
+			anticodon	(pos:9054..9056,aa:k)
+9492	9574	gene
+			gene	trnL(tag)
+9492	9574	tRNA
+			product	transfer RNA Leucine
+			protein_id	lcl| G-trnL
+			anticodon	(pos:9525..9527,aa:l)
+9875	9947	gene
+			gene	trnQ(ttg)
+9875	9947	tRNA
+			product	transfer RNA Glutamine
+			protein_id	lcl| G-trnQ
+			anticodon	(pos:9908..9910,aa:q)
+10136	10209	gene
+			gene	trnH(gtg)
+10136	10209	tRNA
+			product	transfer RNA Histidine
+			protein_id	lcl| G-trnH
+			anticodon	(pos:10170..10172,aa:h)
+10373	10444	gene
+			gene	trnM(cat)
+			note	copy 3
+10373	10444	tRNA
+			product	transfer RNA Methionine
+			protein_id	lcl| G-trnM_3
+			anticodon	(pos:10406..10408,aa:m)
+10568	12235	gene
+			gene	nad2
+10568	12235	CDS
+			product	NADH dehydrogenase subunit 2
+			protein_id	lcl| G-nad2
+			EC_number	1.6.5.3
+12236	12649	gene
+			gene	nad3
+12236	12649	CDS
+			product	NADH dehydrogenase subunit 3
+			protein_id	lcl| G-nad3
+			EC_number	1.6.5.3
+12845	13069	gene
+			gene	atp9
+12845	13069	CDS
+			product	ATP synthase F0 subunit c
+			protein_id	lcl| G-atp9
+			EC_number	3.6.3.14
+13469	14353	gene
+			gene	orf294
+13469	14353	CDS
+			product	hypothetical protein
+			protein_id	lcl| G-orf294
+			note	GIY
+			transl_except	(pos:13469..13471, aa : K)
+13241	15286	gene
+			gene	cox2
+13241	13468	CDS
+14765	15286
+			product	cytochrome c oxidase subunit 2
+			protein_id	lcl| G-cox2
+			EC_number	1.9.3.1
+13241	13468	exon
+			number	1
+14765	15286	exon
+			number	2
+13469	14764	intron
+			number	1
+			note	Group IB
+15388	15458	gene
+			gene	trnR(acg)
+15388	15458	tRNA
+			product	transfer RNA Arginine
+			protein_id	lcl| G-trnR
+			anticodon	(pos:15420..15422,aa:r)
+15597	15866	gene
+			gene	nad4L
+15597	15866	CDS
+			product	NADH dehydrogenase subunit 4L
+			protein_id	lcl| G-nad4L
+			EC_number	1.6.5.3
+15866	17932	gene
+			gene	nad5
+15866	17932	CDS
+			product	NADH dehydrogenase subunit 5
+			protein_id	lcl| G-nad5
+			EC_number	1.6.5.3
+18195	18542	gene
+			gene	orf115
+18195	18542	CDS
+			product	hypothetical protein
+			protein_id	lcl| G-orf115
+18795	19964	gene
+			gene	cob
+18795	19964	CDS
+			product	apocytochrome b
+			protein_id	lcl| G-cob
+			EC_number	1.10.2.2
+20018	20089	gene
+			gene	trnC(gca)
+20018	20089	tRNA
+			product	transfer RNA Cysteine
+			protein_id	lcl| G-trnC
+			anticodon	(pos:20051..20053,aa:c)
+20562	22382	gene
+			gene	cox1
+20562	22382	CDS
+			product	cytochrome c oxidase subunit 1
+			protein_id	lcl| G-cox1
+			EC_number	1.9.3.1
+22693	22763	gene
+			gene	trnR(tct)
+22693	22763	tRNA
+			product	transfer RNA Arginine
+			protein_id	lcl| G-trnR
+			anticodon	(pos:22725..22727,aa:r)
+23248	24534	gene
+			gene	nad1
+23248	24534	CDS
+			product	NADH dehydrogenase subunit 1
+			protein_id	lcl| G-nad1
+			EC_number	1.6.5.3
+24676	26133	gene
+			gene	nad4
+24676	26133	CDS
+			product	NADH dehydrogenase subunit 4
+			protein_id	lcl| G-nad4
+			EC_number	1.6.5.3
+26264	26332	gene
+			gene	trnF(aaa)
+26264	26332	tRNA
+			product	transfer RNA Phenylalanine
+			protein_id	lcl| G-trnF
+			anticodon	(pos:26295..26297,aa:f)
+26610	26756	gene
+			gene	atp8
+26610	26756	CDS
+			product	ATP synthase F0 subunit 8
+			protein_id	lcl| G-atp8
+			EC_number	3.6.3.14
+26945	27727	gene
+			gene	atp6
+26945	27727	CDS
+			product	ATP synthase F0 subunit a
+			protein_id	lcl| G-atp6
+			EC_number	3.6.3.14
+28077	29581	gene
+			gene	rns
+28077	29581	rRNA
+			product	small subunit ribosomal RNA
+			protein_id	lcl| G-rns
+
