@@ -1,1 +1,30 @@
+# mitos and mfannot
+atp9, atp9
+cob, cob
+cox3, cox3
+nad3, nad3
+nad4, nad4
+nad4l, nad4L
 
+# mitos unique
+atp6
+cox1
+cox2_0
+cox2_1
+nad1
+nad2
+nad5
+nad6
+
+# mfanno unique
+atp6
+atp8
+cox1
+cox2
+nad1
+nad2
+nad5
+nad6
+orf115
+orf294
+orf459
